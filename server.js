@@ -26,7 +26,12 @@ app.get("/schools", function(req, res) {
         if (err) {
             console.log(err);
         }
-        res.send(Object.keys(obj));
+        var arr = Object.keys(obj)
+        var resObj = []
+        for(var i=0; i < arr.length; i++){
+            resObj.push({"title": arr[i]})
+        }
+        res.send(resObj);
     });
 });
 
