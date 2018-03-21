@@ -1,9 +1,4 @@
 $('#calendar').fullCalendar({
-  weekends: true 
-});
-
-
-$('#calendar').fullCalendar({
   events: [
     {
       title  : 'event1',
@@ -11,4 +6,9 @@ $('#calendar').fullCalendar({
       end    : '2018-03-25'
     }
   ]
+});
+
+$.get("/schools", function(data, status){
+      console.log(data);
+      $('.ui.search').search({source: data});
 });
