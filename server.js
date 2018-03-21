@@ -44,7 +44,7 @@ app.post("/dates", function(req, res) {
         var start = moment(obj[school].start)
         var end =moment(obj[school].end)
 
-        res.send({"start":start, "end":end})
+        res.send({"title": school, "start":start, "end":end})
     });
 
 });
