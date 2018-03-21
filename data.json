@@ -1,0 +1,2358 @@
+{
+	"Abraham Baldwin Agricultural College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Adams State College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Adelphi University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Adrian College": { "start": "02/24/2018", "end": "03/04/2018" },
+	"Aims Community College - Greeley": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Alabama Agricultural and Mechanical University": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Alabama State University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Alamance Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Albany College of Pharmacy and Health Sciences": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Albany State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Albright College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Alfred University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Allegheny College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Allen University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"American International College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"American University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Amherst College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Angelo State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Anna Marie College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Anne Arundel Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Anoka Ramsey Community College-Cambridge Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Appalachian State University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Arcadia University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Arizona State University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Arkansas Baptist College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Arkansas State University - State University": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Arkansas State University-Beebe Campus": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Arkansas State University-Main Campus": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Armstrong Atlantic State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Art Institute of Boston at Lesley University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Ashland University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Assumption College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Auburn University Main Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Augsburg College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Augustana College - Sioux Falls": {
+		"start": "02/17/2018",
+		"end": "02/25/2018"
+	},
+	"Augustana College-Sioux Falls": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Austin College- Sherman": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Austin Community College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Austin Peay State University-Clarksville": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Avila College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Azusa Pacific University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Babson College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Baldwin - Wallace College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Baldwin-Wallace College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Ball State University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Baltimore City Community College": {
+		"start": "03/31/2018",
+		"end": "04/08/2018"
+	},
+	"Barry University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Barton College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Bates College": { "start": "02/17/2018", "end": "02/25/2018" },
+	"Baylor University-Waco": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Becker College-Worcester": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Belmont University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Bemidji State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Benedictine University-IL": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Benjamin Franklin Institute of Technology": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Bentley University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Bergen Community College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Berkeley College-White Plains": {
+		"start": "04/14/2018",
+		"end": "04/22/2018"
+	},
+	"Berklee College of Music": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Bethany College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Bethel College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Bethel College-IN": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Bismarck State College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Black Hawk College East Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Blinn College-Bryan Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Bloomsburg University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Bluegrass Community and Technical College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Boise State University": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Boston Architectural College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Boston College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Boston Conservatory": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Boston University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Bowdoin College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Bowling Green State University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Bradley University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Brevard College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Bridgerland Applied Technology Center": {
+		"start": "03/31/2018",
+		"end": "04/08/2018"
+	},
+	"Bridgewater College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Bridgewater State College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Bristol Community College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Brookdale Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Broward Community College-Pembroke Pines": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Brown University": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Bryant & Stratton College: Albany": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Bryant University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Bucknell University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Bunker Hill Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Butler University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Cabrini University": { "start": "02/24/2018", "end": "03/04/2018" },
+	"California Institute of Technology": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"California Lutheran University": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"California Polytechnic State University-San Luis Obispo": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"California State University- Long Beach": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"California State University- Los Angeles": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"California State University-Bakersfield": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"California State University-Chico": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"California State University-Long Beach": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"California State University-Los Angeles": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"California State University-Sacramento": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"California University of Pennsylvania": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Cambridge College": { "start": "04/14/2018", "end": "04/22/2018" },
+	"Camden County College-Blackwood": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Campbell University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Canisius College": { "start": "03/31/2018", "end": "04/08/2018" },
+	"Carleton College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Carnegie Mellon University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Case Western Reserve University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Castleton State College": { "start": "03/31/2018", "end": "04/08/2018" },
+	"Catholic University of America, The": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Central College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Central Connecticut State University": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Central Lakes College-Brainerd Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Central Methodist College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Central Michigan University-Mount Pleasant": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Central Ohio Technical College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Central Texas College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Central Washington University": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Centre College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Chaffey College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Chapman University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Chattanooga State Technical Community College": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Chicago State University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Christopher Newport University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Citadel-The Military College of South Carolina, The": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"City College of San Francisco": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"City of New York- Queensborough Community College": {
+		"start": "03/31/2018",
+		"end": "04/08/2018"
+	},
+	"City of New York- York College": {
+		"start": "03/31/2018",
+		"end": "04/08/2018"
+	},
+	"City Univ of New York-Queens College": {
+		"start": "03/31/2018",
+		"end": "04/08/2018"
+	},
+	"City University of New York- John Jay Col Criminal Justice": {
+		"start": "03/31/2018",
+		"end": "04/08/2018"
+	},
+	"Claremont McKenna College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Clarendon College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Clarion University of Pennsylvania-Clarion": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Clarkson University-NY": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Clayton College & State University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Clemson University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Cleveland State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Cloud County Community College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Coastal Carolina University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Coe College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Colby College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Colby-Sawyer College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Colgate University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"College Misericordia": { "start": "03/03/2018", "end": "03/11/2018" },
+	"College of Charleston": { "start": "03/17/2018", "end": "03/25/2018" },
+	"College of DuPage": { "start": "03/24/2018", "end": "04/01/2018" },
+	"College of Lake County": { "start": "03/17/2018", "end": "03/25/2018" },
+	"College of Mount St. Vincent": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"College of New Jersey, The": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"College of Saint Rose": { "start": "02/10/2018", "end": "02/18/2018" },
+	"College of Staten Island": { "start": "04/07/2018", "end": "04/15/2018" },
+	"College of the Holy Cross": { "start": "03/03/2018", "end": "03/11/2018" },
+	"College of William and Mary": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Collin County Community College-Spring Creek": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Colorado Christian University": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Colorado College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Colorado School of Mines": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Colorado State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Columbia University in The City of New York": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Columbus State Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Community College of Philadelphia": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Community College of Rhode Island": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Concordia College- Bronxville": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Concordia College-Moorhead": {
+		"start": "02/24/2018",
+		"end": "03/04/2018"
+	},
+	"Concordia University-Mequon": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Concordia University-NE": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Connecticut College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Coppin State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Cornell College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Cornell University": { "start": "03/31/2018", "end": "04/08/2018" },
+	"County College of Morris": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Creighton University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"CUNY - Kingsborough Community College": {
+		"start": "03/31/2018",
+		"end": "04/08/2018"
+	},
+	"Curry College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Curtis Institute of Music": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Cuyahoga Community College-Western Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Dakota County Technical College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Danville Area Community College": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Dartmouth College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Davenport University-Grand Rapids": {
+		"start": "02/24/2018",
+		"end": "03/04/2018"
+	},
+	"Davidson College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Daytona Beach Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Dean College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Delaware County Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Delaware Tech & Community College- Willmington Campus": {
+		"start": "03/31/2018",
+		"end": "04/08/2018"
+	},
+	"Delaware Valley College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Denison University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"DePaul University": { "start": "03/24/2018", "end": "04/01/2018" },
+	"DePauw University": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Des Moines Area Community College-Ankeny Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"DeSales University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"DeVry Institute of Technology-West Hills": {
+		"start": "03/31/2018",
+		"end": "04/08/2018"
+	},
+	"Diablo Valley College-Pleasant Hill": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Dickinson College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Dordt College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Drake University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Drexel University": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Drury University-Springfield": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Duke University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Dunwoody Institute": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Duquesne University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"East Carolina University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"East Stroudsburg University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"East Tennessee State University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Eastern Connecticut State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Eastern Illinois University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Eastern Kentucky University": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Eastern Michigan University": {
+		"start": "04/14/2018",
+		"end": "04/22/2018"
+	},
+	"Eastman School of Music of the University of Rochester": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Edgewood College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Edinboro University of Pennsylvania": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Elizabeth City State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Elizabethtown College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Elmhurst College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Elms College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Elon College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Embry-Riddle Aero University-FL": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Embry-Riddle Aero University-TX": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Emerson College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Emmanuel College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Emory University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Emporia State University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Endicott College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Everest Institute: Rochester": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Excelsior College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Fairfield University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Fairleigh Dickinson University-Madison": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Fairleigh Dickinson University-Teaneck": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Fairmont State College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Fashion Institute of Design & Merch-Los Angeles": {
+		"start": "04/14/2018",
+		"end": "04/22/2018"
+	},
+	"Fashion Institute of Technology": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Fayetteville State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Ferris State University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Fisher College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Fitchburg State College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Fitchburg State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Flagler College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Florida Agricultural and Mechanical University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Florida Atlantic University-Boca Raton": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Florida Community College at Jacksonville": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Florida Gulf Coast University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Florida Institute of Technology": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Florida International University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Florida State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Fordham University": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Fort Hays State University": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Fort Lewis College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Framingham State College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Franklin and Marshall College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Franklin Pierce College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Franklin University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Front Range Community College-Larimer Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Gallaudet University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Gannon University": { "start": "02/24/2018", "end": "03/04/2018" },
+	"Gardner-Webb University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Gateway Community College-New Haven": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"George Mason University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"George Washington University at Foggy Bottom": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"George Washington University at Mount Vernon": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Georgetown University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Georgia Institute of Technology": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Georgia Southern University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Georgia State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Gettysburg College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Gordon College-GA": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Grand Canyon University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Grand Rapids Community College": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Grand Valley State University-Allendale": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Grand Valley State University-Grand Rapids": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Great Lakes Christian College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Greenville Technical College": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Guilford College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Guilford Technical Community College-Main Campus": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Gustavus Adolphus College": { "start": "03/31/2018", "end": "04/08/2018" },
+	"Hamilton College-NY": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Hampshire College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Hartwick College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Harvard Law School": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Harvard University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Haverford College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Hawkeye Community College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Heidelberg College-Tiffin": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Hendrix College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"High Point University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Highland Community College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Hilbert College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Hillsborough Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Hillsdale College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Hiram College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Hobart & William Smith Colleges": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Hofstra University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Holy Cross College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Hope College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Howard College-Big Spring Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Howard University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Hudson County Community College": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Hudson Valley Community College": {
+		"start": "03/31/2018",
+		"end": "04/08/2018"
+	},
+	"Husson College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Illinois Central College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Illinois College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Illinois Eastern Comm Coll Lincoln Trail College": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Illinois Institute of Technology": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Illinois State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Illinois Wesleyan University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Immaculata College": { "start": "02/24/2018", "end": "03/04/2018" },
+	"Indiana Institute of Technology": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Indiana State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Indiana University Bloomington": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Indiana University Kokomo": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Indiana University Northwest": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Indiana University of Pennsylvania": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Indiana University South Bend": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Indiana University-Purdue University Fort Wayne": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Indiana University-Purdue University Indianapolis": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Iona College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Iowa Central Community College-Eagle Grove Center": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Iowa State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Iowa Wesleyan College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Iowa Western Community College-Council Bluffs": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Ithaca College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"ITT Technical Institute: Albany": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"ITT Technical Institute: Liverpool": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Ivy Tech State College-Northwest": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Jacksonville University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"James Madison University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Jefferson Community College": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"John Carroll University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"John Tyler Community College": {
+		"start": "02/24/2018",
+		"end": "03/04/2018"
+	},
+	"Johns Hopkins University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Johnson & Wales University at Providence": {
+		"start": "02/24/2018",
+		"end": "03/04/2018"
+	},
+	"Johnson County Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Kalamazoo College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Kansas State University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Kean University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Keene State College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Kent State University-Geauga Campus": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Kent State University-Main Campus": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Kent State University-Stark Campus": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Kenyon College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Keystone College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"King's College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Kirkwood Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Kirtland Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Kishwaukee College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Knox College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Kutztown University of Pennsylvania": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Labette Community College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Laboratory Institute of Merchandising": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Lafayette College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Lake Area Technical Institute": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Lake Forest College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Lakeland Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Langston University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Lansing Community College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Las Vegas College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"LaSalle University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Lasell College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Le Moyne College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Lehigh University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Lenoir- Rhyne College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Lewis and Clark Community College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Lewis University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Liberty University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Lindenwood University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Lock Haven Univ of Pennsylvania-Main Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Long Beach City College": { "start": "03/31/2018", "end": "04/08/2018" },
+	"Long Island University-Brentwood Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Long Island University-Brooklyn Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Long Island University-C.W. Post Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Longwood College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Loyola University - Wilmette": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Loyola University in Maryland": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Loyola University New Orleans": {
+		"start": "02/24/2018",
+		"end": "03/04/2018"
+	},
+	"Loyola University of Chicago-Lakeshore Campus": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Lubbock Christian University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Luther College-IA": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Lynchburg College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Lynn University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Macomb Community College-Center Campus": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Madison Area Technical College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Maine Maritime Academy": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Manchester College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Manhattan College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Maple Woods Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Maria College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Marion Military Institute": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Marist College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Marquette University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Marshall University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Maryland Institute College of Art": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Massachusetts Bay Community College-Wellesley": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Massachusetts Col of Pharmacy and Health Science": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Massachusetts College of Liberal Arts": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Massachusetts Institute of Technology": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Massasoit Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"McDaniel College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"McHenry County College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"McKendree College-Scott AFB": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"McPherson College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Medaille College: Rochester": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Menlo College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Mercer County Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Mercer University-Macon": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Meredith College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Merrimack College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Metropolitan Career Center Computer Technology Institute": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Metropolitan Community Colleges of Kansas City": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Metropolitan State College of Denver": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Miami Dade Community College": {
+		"start": "04/14/2018",
+		"end": "04/22/2018"
+	},
+	"Miami University-Middletown Campus": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Miami University-OH": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Michigan State University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Michigan Technological University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Middle Tennessee State University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Middlebury College": { "start": "03/31/2018", "end": "04/08/2018" },
+	"Middlesex Community College- City Campus": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Middlesex Community College-Lowell": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Middlesex County College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Midwestern University": { "start": "02/24/2018", "end": "03/04/2018" },
+	"Mildred Elley": { "start": "04/14/2018", "end": "04/22/2018" },
+	"Millersville University of Pennsylvania": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Millikin University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Mineral Area College": { "start": "03/31/2018", "end": "04/08/2018" },
+	"Minnesota State University - Mankato": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Minnesota State University - Moorhead": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Minot State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Mississippi State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Missouri Baptist College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Missouri Southern State College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Missouri State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Missouri University of Science and Technology": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Missouri Western State College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Mohawk Valley Community College- Utica": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Monmouth College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Monmouth University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Monroe Community College": { "start": "04/14/2018", "end": "04/22/2018" },
+	"Montana State University-Bozeman": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Montana Tech of The University of Montana": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Montclair State University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Montgomery College-Rockville Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Montgomery County Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Moore College of Art and Design": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Moraine Valley Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Morehouse College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Morgan State University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Morningside College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Motlow State Community College-Tullahoma": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Mott Community College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Mount Holyoke College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Mount Ida College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Mount Mercy College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Mount St. Mary College - NY": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Mount Wachusett Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Mt. Hood Community College": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Muhlenberg College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Naugatuck Valley Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Nazareth College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Neumann College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"New England Conservatory of Music": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"New Jersey Institute of Technology": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"New Mexico State University-Main Campus": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"New School University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"New York Institute of Technology - Old Westbury Campus": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"New York University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Niagara University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Nichols College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Norfolk State University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"North Carolina Agricultural and Tech State Univ": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"North Carolina Central University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"North Carolina State University": {
+		"start": "03/31/2018",
+		"end": "04/08/2018"
+	},
+	"North Central College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"North Dakota State College of Science": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"North Dakota State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"North Georgia College & State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"North Park University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Northcentral Technical College-Wausau Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Northeastern State University-Tahlequah Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Northeastern University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Northern Arizona University": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Northern Essex Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Northern Illinois University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Northern Kentucky University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Northern Michigan University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Northern Oklahoma College-Tonkawa": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Northern State University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Northern Virginia Comm College-Annandale Campus": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Northwest Missouri State University": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Northwest Nazarene University": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Northwest State Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Northwestern College-St. Paul": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Northwestern University-Chicago": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Northwood University-FL": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Oakland Community College-Auburn Hills Campus": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Oakland University": { "start": "02/17/2018", "end": "02/25/2018" },
+	"Ocean County College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Odessa College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Ohio Dominican College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Ohio Northern University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Ohio State University-Main Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Ohio State University-Marion Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Ohio University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Oklahoma State University-Main Campus": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Old Dominion University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Onondaga Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Orange Coast College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Oregon State University": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Otis College of Art and Design": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Otterbein College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Our Lady of the Lake University": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Pace University - Pleasantville": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Pace University New York Campus": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Palm Beach Community College-Lake Worth": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Palm Beach Community College-Palm Beach": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Paradise Valley Community College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Parkland College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Pasadena City College": { "start": "04/14/2018", "end": "04/22/2018" },
+	"Peirce College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Pennslyvania State University- Shenango Campus": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Pennsylvania Academy of the Fine Arts": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Pennsylvania College of Technology": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Pennsylvania Institute of Technology": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Pennsylvania State Univ-Altoona College": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Pennsylvania State Univ-Beaver Campus": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Pennsylvania State Univ-Erie/Behrend College": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Pennsylvania State Univ-Main Campus": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Philadelphia University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Pikes Peak Community College": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Pine Manor College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Pittsburg State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Plymouth State University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Polk Community College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Portland Community College-Sylvania Campus": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Prairie View A&M University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Pratt Community College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Princeton University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Providence College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Pueblo Community College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Purchase College State University of New York": {
+		"start": "03/31/2018",
+		"end": "04/08/2018"
+	},
+	"Purdue University-Calumet": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Purdue University-Main Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Queens College": { "start": "03/31/2018", "end": "04/08/2018" },
+	"Quincy College-MA": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Quinnipiac University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Quinsigamond Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Radford University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Ramapo College of New Jersey": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Raritan Valley Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Reading Area Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Regis College-MA": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Rensselaer Polytechnic Institute": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Rhode Island College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Rhodes College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Rice University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Richard Stockton College of New Jersey, The": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Richland College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Richland Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Rider University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Rio Hondo College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Ripon College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Riverside Community College": {
+		"start": "04/07/2018",
+		"end": "04/15/2018"
+	},
+	"Roanoke College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Robert Morris College Coraopolis": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Robert Morris University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Robert Stockton College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Rochester Institute of Technology": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Rockhurst University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Roger Williams University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Rogers State University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Rollins College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Rose-Hulman Institute of Technology": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Rowan University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Rutgers - The State Univ of New Jersey - Camden": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Rutgers - The State Univ of New Jersey - New Bruns": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Rutgers - The State Univ of New Jersey - New Brunswick": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Rutgers - The State Univ of New Jersey - Newark": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Sacred Heart University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Saddleback College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Saginaw Valley State University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Salem College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Salem State College-MA": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Salt Lake Community College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Salve Regina University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Sam Houston State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"San Bernardino Valley College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"San Diego Mesa College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"San Diego State University": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"San Francisco State University": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"San Jacinto College-Central": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"San Jacinto College-North Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"San Jose State University": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Santa Fe Community College-Gainesville": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Santa Rosa Junior College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Savannah College of Art and Design": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Savannah State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"School of the Museum of Fine Arts": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Scottsdale Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Scranton University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Seattle University": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Seton Hall University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Seton Hall University School of Law": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Seward County Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Shenandoah University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Shepherd University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Shippensburg University of Pennsylvania": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Siena College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Siena Heights University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Simmons College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Skidmore College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Slippery Rock University of Pennsylvania": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Smith College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Sojourner-Douglass College": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"South Dakota State University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Southeast Missouri State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Southeastern Oklahoma State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Southern Connecticut State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Southern Illinois University Carbondale": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Southern Illinois University Edwardsville": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Southern Methodist University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Southern New Hampshire University-Manchester": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Southern Oregon University": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Southern Utah University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Southwestern College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Southwestern Oklahoma State University-Weatherford": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Spelman College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Springfield College-MA": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Springfield Technical Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"St. Ambrose University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"St. Andrews Presbyterian College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"St. Anselm College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"St. Bonaventure University": {
+		"start": "02/24/2018",
+		"end": "03/04/2018"
+	},
+	"St. Charles County Community College": {
+		"start": "03/31/2018",
+		"end": "04/08/2018"
+	},
+	"St. Cloud State University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"St. Francis College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"St. John Fisher College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"St. Johns University": { "start": "02/17/2018", "end": "02/25/2018" },
+	"St. Johns University-Jamaica, NY": {
+		"start": "02/17/2018",
+		"end": "02/25/2018"
+	},
+	"St. Joseph's University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"St. Josephs College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"St. Lawrence University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"St. Louis Community College at Meramec": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"St. Louis University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"St. Mary's College-IN": { "start": "03/10/2018", "end": "03/18/2018" },
+	"St. Michael's College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"St. Norbert College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"St. Thomas Aquinas College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"St. Vincent College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Stanford University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Stephen F. Austin State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Stevens Institute of Technology": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Stevenson College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Stevenson University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Stonehill College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Strayer University-Montgomery Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Suffolk County Community College-Western": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Suffolk University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"SUNY - College of Agriculture & Tech - Cobleskill": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"SUNY at Albany": { "start": "03/10/2018", "end": "03/18/2018" },
+	"SUNY at Binghamton": { "start": "03/31/2018", "end": "04/08/2018" },
+	"SUNY at Buffalo": { "start": "03/17/2018", "end": "03/25/2018" },
+	"SUNY at Farmingdale": { "start": "03/17/2018", "end": "03/25/2018" },
+	"SUNY at New Paltz": { "start": "03/17/2018", "end": "03/25/2018" },
+	"SUNY at Stony Brook": { "start": "03/24/2018", "end": "04/01/2018" },
+	"SUNY College at Brockport": { "start": "03/10/2018", "end": "03/18/2018" },
+	"SUNY College at Buffalo": { "start": "03/10/2018", "end": "03/18/2018" },
+	"SUNY College at Buffalo State": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"SUNY College at Cortland": { "start": "03/10/2018", "end": "03/18/2018" },
+	"SUNY College at Fredonia": { "start": "03/10/2018", "end": "03/18/2018" },
+	"SUNY College at Geneseo": { "start": "03/10/2018", "end": "03/18/2018" },
+	"SUNY College at Oneonta": { "start": "03/03/2018", "end": "03/11/2018" },
+	"SUNY College at Oswego": { "start": "03/10/2018", "end": "03/18/2018" },
+	"SUNY College at Plattsburgh": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"SUNY College at Potsdam": { "start": "02/24/2018", "end": "03/04/2018" },
+	"SUNY College of Environmental Science and Forestry": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"SUNY Upstate Medical University": {
+		"start": "02/10/2018",
+		"end": "02/18/2018"
+	},
+	"Susquehanna University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Syracuse University Main Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Temple University Tyler School of Art": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Temple University-PA": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Tennessee Technological University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Texas A&M International University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Texas A&M University-Kingsville": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Texas A&M University-Main Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Texas Christian University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Texas State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Texas Tech University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"The Sage Colleges": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Thomas Jefferson University: College of Health Professions": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Thomas More College of Liberal Arts, The": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Towson University": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Trinity College-CT": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Triton College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Truman State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Tuffin University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Tufts University-Boston": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Tufts University-Medford": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Tulane University of Louisiana": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Tulsa Community College-Main Campus": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Tunxis Community College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Union College-NY": { "start": "03/24/2018", "end": "04/01/2018" },
+	"United States Air Force Academy": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"United States Coast Guard Academy": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"United States Merchant Marine Academy": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"United States Military Academy - West Point": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"United States Naval Academy": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Akron Main Campus": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Alabama at Birmingham, The": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Alabama at Tuscaloosa, The": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Alaska Anchorage": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Arizona": { "start": "03/03/2018", "end": "03/11/2018" },
+	"University of Arkansas": { "start": "03/17/2018", "end": "03/25/2018" },
+	"University of Arkansas at Pine Bluff": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Baltimore": { "start": "03/17/2018", "end": "03/25/2018" },
+	"University of Bridgeport": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of California-Berkeley": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of California-Davis": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of California-Irvine": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of California-Los Angeles": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of California-Riverside": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of California-San Diego": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of California-Santa Barbara": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of California-Santa Cruz": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Central Arkansas": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Central Florida": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Central Missouri": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Central Oklahoma": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Chicago": { "start": "03/17/2018", "end": "03/25/2018" },
+	"University of Cincinnati Main Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Colorado at Boulder": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Connecticut at Hartford": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"University of Connecticut at Storrs": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Delaware": { "start": "03/24/2018", "end": "04/01/2018" },
+	"University of Denver": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of Detroit Mercy": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"University of Evansville": { "start": "03/03/2018", "end": "03/11/2018" },
+	"University of Florida": { "start": "03/24/2018", "end": "04/01/2018" },
+	"University of Georgia": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of Hartford": { "start": "03/17/2018", "end": "03/25/2018" },
+	"University of Houston": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of Houston-Downtown": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Idaho": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of Illinois at Chicago": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Illinois at Urbana": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Illinois at Urbana Champaign": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Indianapolis": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Iowa": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of Kansas City": { "start": "03/17/2018", "end": "03/25/2018" },
+	"University of Kansas-Main Campus": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Kentucky": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of Louisville": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of Maine": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of Maryland Baltimore": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Maryland-Baltimore County": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Maryland-College Park": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Maryland-Eastern Shore": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Massachusetts- Boston": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Massachusetts-Amherst": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Massachusetts-Dartmouth": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Massachusetts-Lowell": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Miami-Coral Gables": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Miami-Miami": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of Michigan at Ann Arbor": {
+		"start": "02/24/2018",
+		"end": "03/04/2018"
+	},
+	"University of Michigan at Ann Arbor-Central Campus": {
+		"start": "02/24/2018",
+		"end": "03/04/2018"
+	},
+	"University of Michigan at Dearborn": {
+		"start": "02/24/2018",
+		"end": "03/04/2018"
+	},
+	"University Of Michigan-Dearborn": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"University of Minnesota- Crookston": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Minnesota-Duluth": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"University of Minnesota-Twin Cities": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Mississippi-Main Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Missouri _ Columbia": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Missouri – Columbia": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Missouri-St. Louis": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Nebraska-Kearney": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Nebraska-Lincoln": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Nebraska-Medical Center": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"University of Nebraska-Omaha": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Nevada-Las Vegas": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Nevada-Reno": { "start": "03/17/2018", "end": "03/25/2018" },
+	"University of New England-Biddeford": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of New Hampshire": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of New Haven": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of New Mexico-Main Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of New Orleans": { "start": "03/31/2018", "end": "04/08/2018" },
+	"University of North Carolina at Asheville": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of North Carolina at Chapel Hill": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of North Carolina at Charlotte": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"University of North Carolina at Greensboro": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of North Carolina at Wilmington": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"University of North Dakota": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of North Florida": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of North Texas": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of North Texas Health Science Ctr-Fort Worth": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Northern Colorado": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Northern Iowa": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Notre Dame": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of Oklahoma Norman Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Oregon Main Campus": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Pennsylvania": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"University of Phoenix-San Diego": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"University of Phoenix-Tucson Campus": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Pittsburgh-Pittsburgh Campus": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"University of Rhode Island": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Richmond": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of Rochester": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of San Francisco": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Scranton": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of South Alabama": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of South Carolina Columbia": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of South Dakota, The": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"University of South Florida": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Southern California": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Southern Colorado": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Southern Mississippi-Hattiesburg": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of St. Francis": { "start": "03/03/2018", "end": "03/11/2018" },
+	"University of St. Thomas-St. Paul": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Tampa": { "start": "03/03/2018", "end": "03/11/2018" },
+	"University of Tennessee-Chattanooga": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Tennessee-Knoxville": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Tennessee-Martin": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"University of Texas at Arlington": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Texas at Austin": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Texas at Brownsville": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Texas at El Paso": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Texas at San Antonio": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Texas at Tyler": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of the Arts": { "start": "03/03/2018", "end": "03/11/2018" },
+	"University of the Sciences in Philadelphia": {
+		"start": "02/24/2018",
+		"end": "03/04/2018"
+	},
+	"University of Toledo": { "start": "03/03/2018", "end": "03/11/2018" },
+	"University of Tulsa": { "start": "03/17/2018", "end": "03/25/2018" },
+	"University of Vermont": { "start": "03/10/2018", "end": "03/18/2018" },
+	"University of Virginia": { "start": "03/03/2018", "end": "03/11/2018" },
+	"University of Washington-Seattle": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of West Georgia": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Wisconsin Colleges": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Wisconsin-Eau Claire": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Wisconsin-Green Bay": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"University of Wisconsin-La Crosse": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Wisconsin-Madison": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Wisconsin-Marathon County": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Wisconsin-Milwaukee": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Wisconsin-Oshkosh": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Wisconsin-Parkside": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Wisconsin-Stevens Point": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"University of Wisconsin-Stout": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"University of Wisconsin-Superior": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Wisconsin-Whitewater": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"University of Wyoming": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Upper Iowa University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Urban College of Boston": { "start": "02/24/2018", "end": "03/04/2018" },
+	"Ursinus College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Utah State University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Utah Valley State College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Utica College of Syracuse University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Valdosta State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Valencia Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Valley City State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Valparaiso University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Vanderbilt University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Vassar College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Ventura (CA)": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Villanova University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Virginia Commonwealth University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Virginia Military Institute": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Virginia Polytechnic Institute and State University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Virginia Wesleyan College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Viterbo University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Wabash College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Wagner College": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Wake Forest University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Wake Technical Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Walsh University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Warner Southern College": { "start": "03/24/2018", "end": "04/01/2018" },
+	"Washburn University of Topeka": {
+		"start": "03/24/2018",
+		"end": "04/01/2018"
+	},
+	"Washington & Jefferson College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Washington and Lee University": {
+		"start": "02/17/2018",
+		"end": "02/25/2018"
+	},
+	"Washington College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Washington State University-Pullman": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Washington University of St. Louis": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Washtenaw Community College": {
+		"start": "02/17/2018",
+		"end": "02/25/2018"
+	},
+	"Waukesha County Technical College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Wayne State University-Detroit": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Webster University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Wentworth Institute of Technology": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Wesley College-DE": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Wesleyan University-CT": { "start": "03/10/2018", "end": "03/18/2018" },
+	"West Chester University of Pennsylvania": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"West Liberty State College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"West Texas A & M University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"West Virginia Junior College": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"West Virginia University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Westchester Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Western Connecticut State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Western Illinois University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Western Iowa Tech Community College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Western Kentucky University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Western Michigan University": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Western New England College": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Western New Mexico University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Western State College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Westfield State College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Wichita State University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Widener University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Wilkes University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"William Jewell College": { "start": "03/10/2018", "end": "03/18/2018" },
+	"William Paterson University of New Jersey": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Williams College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Wilmington College-New Castle": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Wingate University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Winona State University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Winthrop University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Wisconsin Indianhead Tech College Ashland": {
+		"start": "03/17/2018",
+		"end": "03/25/2018"
+	},
+	"Wisconsin Lutheran College": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	},
+	"Wittenberg University": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Worcester Polytechnic Institute": {
+		"start": "03/03/2018",
+		"end": "03/11/2018"
+	},
+	"Worcester State College": { "start": "03/17/2018", "end": "03/25/2018" },
+	"Wright State University Main Campus": {
+		"start": "02/24/2018",
+		"end": "03/04/2018"
+	},
+	"Xavier University - Ohio": { "start": "03/03/2018", "end": "03/11/2018" },
+	"Yale University": { "start": "03/10/2018", "end": "03/18/2018" },
+	"Yeshiva University": { "start": "04/07/2018", "end": "04/15/2018" },
+	"York College of Pennsylvania": {
+		"start": "02/24/2018",
+		"end": "03/04/2018"
+	},
+	"Youngstown State University": {
+		"start": "03/10/2018",
+		"end": "03/18/2018"
+	}
+}

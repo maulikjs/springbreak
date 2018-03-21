@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Melp</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.6/semantic.min.css">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+    /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+    
+    #map {
+        float: left;
+        height: 100%;
+        width: 50%;
+    }
+    
+    #selector {
+        float: right;
+        height: 100%;
+        width: 50%;
+    }
+    
+    #info {
+        display: inline;
+    }
+    
+    #information {
+        float: right;
+        height: 50%;
+        width: 50%;
+    }
+    /* Optional: Makes the sample page fill the window. */
+    
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .modal {
+        display: none;
+        /* Hidden by default */
+        position: fixed;
+        /* Stay in place */
+        z-index: 1;
+        /* Sit on top */
+        padding-top: 100px;
+        /* Location of the box */
+        left: 0;
+        top: 0;
+        width: 100%;
+        /* Full width */
+        height: 100%;
+        /* Full height */
+        overflow: auto;
+        /* Enable scroll if needed */
+        background-color: rgb(0, 0, 0);
+        /* Fallback color */
+        background-color: rgba(0, 0, 0, 0.4);
+        /* Black w/ opacity */
+    }
+    /* Modal Content */
+    
+    .modal-content {
+        background-color: #fefefe;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+    }
+    /* The Close Button */
+    
+    .close {
+        color: #aaaaaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+    }
+    
+    .close:hover,
+    .close:focus {
+        color: #000;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <div id="selector">
+        <div class="ui text container">
+            <br>
+            <div class="ui segments">
+                <div class="ui horizontal segments">
+                    <div class="ui segment">
+                        <h3 class="ui header">Search:</h3>
+                        <div id="distance_form" class="ui form">
+                            <div class="grouped fields">
+                                <label>Select your radius of search</label>
+                                <div class="field">
+                                    <div class="ui radio checkbox">
+                                        <input type="radio" value="5" name="example2" checked="checked">
+                                        <label>5 Miles</label>
+                                    </div>
+                                </div>
+                                <div class="field">
+                                    <div class="ui radio checkbox">
+                                        <input type="radio" value="10" name="example2">
+                                        <label>10 Miles</label>
+                                    </div>
+                                </div>
+                                <div class="field">
+                                    <div class="ui radio checkbox">
+                                        <input type="radio" value="15" name="example2">
+                                        <label>15 miles</label>
+                                    </div>
+                                </div>
+                                <div class="field">
+                                    <div class="ui radio checkbox">
+                                        <input type="radio" value="20" name="example2">
+                                        <label>20 miles</label>
+                                    </div>
+                                </div>
+                                <div class="field">
+                                    <div class="ui radio checkbox">
+                                        <input type="radio" value="25" name="example2">
+                                        <label>25 miles</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ui segment">
+                        <div class="ui form">
+                            <div class="grouped fields">
+                                <label>Prices</label>
+                                <div class="field">
+                                    <div class="ui checkbox">
+                                        <input type="checkbox" value="1" name="1dollar" checked="checked">
+                                        <label>$</label>
+                                    </div>
+                                </div>
+                                <div class="field">
+                                    <div class="ui checkbox">
+                                        <input type="checkbox" value="2" name="2dollar" checked="checked">
+                                        <label>$$</label>
+                                    </div>
+                                </div>
+                                <div class="field">
+                                    <div class="ui checkbox">
+                                        <input type="checkbox" value="3" name="3dollar" checked="checked">
+                                        <label>$$$</label>
+                                    </div>
+                                </div>
+                                <div class="field">
+                                    <div class="ui checkbox">
+                                        <input type="checkbox" value="4" name="4dollar" checked="checked">
+                                        <label>$$$$</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ui segments">
+                    <div class="ui segment">
+                        <div class="ui checkbox">
+                            <input type="checkbox" name="vegetarian">
+                            <label>Vegetarian</label>
+                        </div>
+                    </div>
+                    <div class="ui segment">
+                        <div class="ui checkbox">
+                            <input type="checkbox" name="opennow">
+                            <label>Open Now Only</label>
+                        </div>
+                    </div>
+                </div>
+                <button id="update" class="ui primary button">
+                    Update Map
+                </button>
+            </div>
+            <h3>Click a <b>marker</b> to display information:</h3>
+            <div class="ui raised segment">
+                <h3 id="info" class="ui blue header" style="display: none;"></h3>
+                <div id="price" class="ui medium label" style="display: none;"></div>
+                <div class="ui star rating" style="display: none;"></div>
+                <h3 id="numberAndAddress" style="display: none;">Phone Number and Address:</h3>
+                <div id="phone" class="ui medium blue label" style="display: none;"></div>
+                <div id="address" class="ui medium green label" style="display: none;"></div>
+                <br>
+                <br>
+                <button id="sendToPhone" class="ui tiny right labeled icon button" style="display: none;">
+                    <i class="right arrow icon"></i> Send number and address to my phone
+                </button>
+                <br>
+                <br>
+                <div class="ui divider"></div>
+                <div class="ui two statistics" >
+                    <div class="statistic">
+                        <div id="distanceToDriving" class="text value">
+                            <!--                             2.1 Miles
+                            <br> 13 Minutes -->
+                        </div>
+                        <div id="distanceToDrivingInTime" class="label">
+                        </div>
+                    </div>
+                    <div class="statistic">
+                        <div id="distanceToWalking" class="text value">
+                            <!--                             2.1 Miles
+                            <br> 13 Minutes -->
+                        </div>
+                        <div id="distanceToWalkingInTime" class="label">
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <p>Enter Your Phone Number: </p>
+            <div class="ui input">
+                <input id="numberInput" type="text" placeholder="555-123-4567">
+            </div>
+            <button id="sendData" class="ui primary button">
+                Send
+            </button>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.js"></script>
+    <script>
+    // Note: This example requires that you consent to location sharing when
+    // prompted by your browser. If you see the error "The Geolocation service
+    // failed.", it means you probably did not give permission for the browser to
+    // locate you.
+
+    $('.ui.dropdown')
+        .dropdown();
+
+    $("#update").on("click", function() {
+        initMap();
+    });
+
+    function load() {
+        $("#update").click();
+    }
+
+    var latBefore = 0;
+    var lngBefore = 0;
+
+    var markersArray = [];
+
+    function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+            center: {
+                lat: -34.397,
+                lng: 150.644
+            },
+            zoom: 15
+        });
+        var infoWindow = new google.maps.InfoWindow({
+            map: map
+        });
+
+        // Try HTML5 geolocation.
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(function(position) {
+                    var pos = {
+                        lat: position.coords.latitude,
+                        lng: position.coords.longitude
+                    };
+                    console.log(position.coords.latitude, position.coords.longitude);
+                    var latitude = position.coords.latitude
+                    var longitude = position.coords.longitude
+                    latBefore = latitude
+                    lngBefore = longitude
+                    var distance = $('input[name=example2]:checked').val() * 1609;
+                    var price1 = $('input[name=1dollar]:checked').val();
+                    var price2 = $('input[name=2dollar]:checked').val();
+                    var price3 = $('input[name=3dollar]:checked').val();
+                    var price4 = $('input[name=4dollar]:checked').val();
+                    var veg = $('input[name=vegetarian]:checked').length;
+                    var opennow = $('input[name=opennow]:checked').length;
+
+                    var json = {
+                        latitude: latBefore,
+                        longitude: lngBefore,
+                        distance: distance,
+                        prices: [price1, price2, price3, price4],
+                        veg: veg,
+                        opennow: opennow,
+                    };
+
+                    $.ajax({
+                        type: "POST",
+                        url: "/preferences",
+                        data: json,
+                        success: function(data) {
+                            console.log(data);
+                            for (var i = 0; i < data.length; i++) {
+                                var current = data[i];
+                                var latLng = new google.maps.LatLng(current.coordinates.latitude, current.coordinates.longitude);
+                                var marker = new google.maps.Marker({
+                                    position: latLng,
+                                    map: map,
+                                    title: current.name,
+                                    animation: google.maps.Animation.DROP,
+                                    lat: latBefore,
+                                    lng: lngBefore,
+                                    location: current.location,
+                                    phone: current.display_phone,
+                                    number: current.phone,
+                                    rating: current.rating,
+                                    imgURL: current.image_url,
+                                    url: current.url,
+                                    price: current.price,
+                                });
+
+                                marker.addListener('click', function() {
+                                    $('#numberAndAddress').show();
+                                    $('#info').text(this.title).show();
+                                    $('#phone').text(this.phone).show();
+                                    $('#price').text(this.price).show();
+                                    $('#address').html(this.location.address1 + " " + this.location.address2 + " " + this.location.address3 + "  " + this.location.city + " " + this.location.state + " " + this.location.zip_code).show();
+                                    console.log(this.number);
+                                    $("#sendToPhone")
+                                        .on("click", function() {
+                                            $('#myModal').css("display", "block");
+                                        })
+                                        .show();
+
+                                    $('.ui.rating')
+                                        .rating({
+                                            initialRating: parseInt(this.rating),
+                                            maxRating: 5
+                                        })
+                                        .rating('disable')
+                                        .show();
+
+                                    // Get the <span> element that closes the modal
+                                    var span = document.getElementsByClassName("close")[0];
+
+                                    span.onclick = function() {
+                                        $('#myModal').css("display", "none");
+                                    }
+
+                                    // When the user clicks anywhere outside of the modal, close it
+                                    window.onclick = function(event) {
+                                        if (event.target == $('#myModal')) {
+                                            $('#myModal').css("display", "none");
+                                        }
+                                    }
+
+                                    $("#sendData")
+                                        .on("click", function() {
+                                            var phone = $("#numberInput").val();
+                                            phone = phone.replace(/[^0-9]/g, '');
+                                            if (phone.length != 10) {
+                                                alert("not 10 digits");
+                                            } else {
+                                                $.ajax({
+                                                    type: "POST",
+                                                    url: "/phones",
+                                                    data: {
+                                                        phone: $("#numberInput").val(),
+                                                        title: $('#info').text(),
+                                                        address: $('#address').text(),
+                                                        restaurantnumber: $('#phone').text()
+                                                    },
+                                                    success: function(data) {
+                                                        $('#myModal').css("display", "none");
+                                                    }
+                                                });
+                                            }
+
+                                        });
+
+
+                                    var destination = new google.maps.LatLng(this.lat, this.lng);
+                                    var service = new google.maps.DistanceMatrixService();
+                                    service.getDistanceMatrix({
+                                        origins: [this.position],
+                                        destinations: [destination],
+                                        travelMode: 'DRIVING',
+                                        unitSystem: google.maps.UnitSystem.IMPERIAL,
+                                    }, callback);
+
+                                    function callback(response, status) {
+                                        console.log(response.rows);
+
+                                        $('#distanceToDriving').html(response.rows[0].elements[0].distance.text);
+                                        $('#distanceToDrivingInTime').html('<i class="car icon"></i> ' + response.rows[0].elements[0].duration.text + " Driving")
+                                    }
+
+                                    service.getDistanceMatrix({
+                                        origins: [this.position],
+                                        destinations: [destination],
+                                        travelMode: 'WALKING',
+                                        unitSystem: google.maps.UnitSystem.IMPERIAL,
+                                    }, callback1);
+
+                                    function callback1(response, status) {
+                                        console.log(response.rows);
+
+                                        $('#distanceToWalking').html(response.rows[0].elements[0].distance.text);
+                                        $('#distanceToWalkingInTime').html('<i class="male icon"></i> ' + response.rows[0].elements[0].duration.text + " Walking")
+                                    }
+
+                                });
+                            }
+                        },
+                    });
+
+                    console.log(json);
+
+                    infoWindow.setPosition(pos);
+                    infoWindow.setContent('Your Location');
+                    map.setCenter(pos);
+                },
+                function() {
+                    handleLocationError(true, infoWindow, map.getCenter());
+                }, {
+                    timeout: 10000
+                });
+        } else {
+            // Browser doesn't support Geolocation
+            handleLocationError(false, infoWindow, map.getCenter());
+        }
+    }
+
+    function handleLocationError(browserHasGeolocation, infoWindow, pos) {
+        infoWindow.setPosition(pos);
+        infoWindow.setContent(browserHasGeolocation ?
+            'Error: The Geolocation service failed.' :
+            'Error: Your browser doesn\'t support geolocation.');
+    }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7XUwuRKHfG3KU-3aa_hDDT7MyIQXhJmc&callback=load">
+    </script>
+</body>
+
+</html>
