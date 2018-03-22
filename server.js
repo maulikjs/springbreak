@@ -36,15 +36,19 @@ app.get("/schools", function(req, res) {
 });
 
 app.post("/dates", function(req, res) {
-    var school = req.body.school;
+    var schools = req.body.schools;
     jsonfile.readFile(file, function(err, obj) {
         if (err) {
             console.log(err);
         }
-        var start = moment(obj[school].start)
-        var end =moment(obj[school].end)
-
-        res.send({"title": school, "start":start, "end":end})
+        var resobj = [];
+        for(var i = 0; i < schools.length; i++){
+            var start = moment(obj[schools[i]].start)
+            var end = moment(obj[schools[i]].end)
+            resobj.push({"title": schools[i], "start":start, "end":end})
+        }
+        
+        res.send(resobj);
     });
 
 });
