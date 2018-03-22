@@ -45,11 +45,19 @@ body {
     padding: 1em; 
 }
 
+.results {
+    text-align: center;
+}
+
 .title {
     width: 50%;
     margin: 0 auto;
     color: white;
     font-size: 4em;
+}
+
+.selectedSchools.ui.label {
+    margin: 3%;
 }
 
 .instructions {

@@ -9,6 +9,12 @@ $('#calendar').fullCalendar({
 });
 
 $.get("/schools", function(data, status){
-      console.log(data);
-      $('.ui.search').search({source: data});
+      $('.ui.search').search({source: data, onSelect: function (result,response) {
+            
+      }});
 });
+
+
+var deleteLabel = function(e) {
+  $(e).parent().remove();
+};
